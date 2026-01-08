@@ -1,102 +1,93 @@
-👋 Hi, I'm Luis Mora
+## 👋 Hi, I'm Luis Mora
 
-Web Developer with experience in JavaScript, Angular, Node.js and eCommerce platforms.
-Specialized in Shopify development, online stores and process automation.
+I'm a **Web Developer** with a strong focus on **JavaScript-based technologies**, backend automation, and real-world applications for e-commerce platforms.
+I enjoy building practical solutions, integrating APIs, and improving workflows through clean and maintainable code.
 
-I enjoy building practical solutions, automating workflows, and improving digital products with clean, maintainable code.
-I’m a fast learner, highly adaptable, and passionate about continuous improvement.
+I come from a background in **E-commerce**, which allows me to understand not only how to build systems, but **why** they are built and how they impact real businesses.
 
-🚀 Tech Stack
+---
 
-Languages
+## 🛠️ Tech Stack
 
-JavaScript (Intermediate)
+### **Languages**
 
-TypeScript (Intermediate)
+* JavaScript (Intermediate)
+* TypeScript
+* HTML & CSS
+* PHP (basic knowledge, maintenance-oriented)
 
-HTML & CSS
+### **Frameworks & Runtime**
 
-PHP (Basic–Intermediate)
+* Angular
+* Node.js
+* Express
+* AJAX / REST APIs
 
-Frameworks & Technologies
+### **Databases**
 
-Angular
+* MongoDB
+* MySQL
+* SQL Server
 
-Node.js (Express)
+### **E-commerce & Platforms**
 
-REST APIs
+* Shopify (themes, APIs, apps)
+* WordPress / WooCommerce
+* Mercado Libre, Amazon, Walmart (API & operational knowledge)
 
-Liquid (Shopify – basic)
+### **Tools**
 
-Databases
+* Git & GitHub
+* Google Sheets API
+* cPanel / Plesk
+* Render
+* IIS
+* XAMPP
 
-MongoDB
+---
 
-MySQL
+## 🚀 What I Work On
 
-SQL Server
+* Web applications using **Angular & Node.js**
+* REST API integrations
+* Shopify customizations and internal apps
+* Automation scripts to improve operational workflows
+* Data synchronization between platforms (APIs → dashboards)
 
-eCommerce & CMS
+I focus on writing **clear, understandable code**, prioritizing maintainability and real-world usability over unnecessary complexity.
 
-Shopify
+---
 
-WordPress / WooCommerce
+## 📌 Selected Projects
 
-Mercado Libre, Amazon, Walmart (Seller experience)
+* **Shopify Orders Automation**
+  Node.js service that consumes Shopify’s API and syncs order data to Google Sheets, improving warehouse operations and reducing manual errors.
 
-Tools
+* **Dynamic CRUD Systems**
+  Internal tools built with JavaScript, PHP, and MySQL for data management and document access.
 
-Git & GitHub
+* **E-commerce Platform Migrations**
+  Website migrations and optimizations focused on performance, UX, and scalability.
 
-cPanel, Plesk
+---
 
-VPS & Hosting management
+## 🧠 How I Think as a Developer
 
-Render
+* Strong understanding of JavaScript fundamentals (scope, closures, async behavior)
+* Comfortable working with APIs and async workflows
+* Business-oriented mindset: I care about performance, usability, and results
+* Continuous learner, using documentation and AI tools responsibly to improve productivity
 
-Google Sheets API
+---
 
-Automation scripts
+## 🌍 Languages
 
-🛠️ What I Do
+* Spanish: Native
+* English: Intermediate (B2 – improving constantly)
 
-Shopify store setup, customization and optimization
+---
 
-Migration from WordPress to Shopify
+## 📫 Let's Connect
 
-Backend services with Node.js
-
-API integrations and automations
-
-Marketplace management and optimization
-
-Process automation to reduce manual work
-
-📌 Highlighted Projects
-
-Shopify → Google Sheets Automation
-Node.js service that consumes Shopify API and syncs orders into Google Sheets to improve warehouse operations.
-
-Shopify Store Migration
-Full migration from WordPress to Shopify, improving performance, UX and maintainability.
-
-Institutional Web Systems
-CRUD systems and web services for public institutions using JavaScript, PHP and C#.
-
-🌎 About Me
-
-📍 Aguascalientes, Mexico
-
-💻 Open to remote or onsite opportunities
-
-📈 Always learning and improving
-
-🤝 Team-oriented and proactive
-
-📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/luis-mora-091538160/
-
-Email: luisedumr@hotmail.com
-
-Thanks for stopping by! 🚀
+* LinkedIn: [https://www.linkedin.com/in/luis-mora-091538160/](https://www.linkedin.com/in/luis-mora-091538160/)
+* Email: [luisedumr@hotmail.com](mailto:luisedumr@hotmail.com)
